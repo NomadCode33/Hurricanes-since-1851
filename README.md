@@ -9,15 +9,17 @@ A detailed map projection showcasing the projected paths and frequencies of hurr
 
 **Tech used:** ArcGIS Pro
 
-First I got four different datasets of the NASA basemap image, NOAA historic hurricanes, Coastlines and graticules, and Firefly icon images. I chose a map projection meant to best showcase something interesting to forget that you're seeing data and instead whirling hurricanes, that projection is the South Pole Stereographic Projection, highlighting the circular structure of the hundreds of storms happening in the world maximizing the dense Northern Hemisphere. Next, I changed the basemap to be more darker and saturated to help contrast with the bright points representing hurricanes that will be added later. The grayscale of the basemap is slightly transparent, leaving a bit of color to show on the basemap
+First, I gathered four datasets: the NASA basemap image, NOAA historic hurricanes, coastlines and graticules, and Firefly icon images. To create an engaging visual experience, I selected the South Pole Stereographic Projection. This projection highlights the circular structure of the numerous storms worldwide, emphasizing the density in the Northern Hemisphere.
 
-Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write *something*. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
+Next, I modified the basemap to be darker and more saturated, enhancing the contrast with the bright hurricane points. I made the grayscale of the basemap slightly transparent, allowing a hint of color to show through.
+
+I then added the Firefly icons in the Content pane, linking the images to the points representing the hurricanes. To enhance the map's visual appeal and focus, I added a vignette at the center.
+
+At the bottom of the map, I included a bar chart comparing data counts by year. Below the chart, I added annotation text to provide context on the history of hurricanes and how measurement methods have evolved over time. This combination of visual elements and informative text helps create a comprehensive and engaging representation of the data.
 
 ## Optimizations
 
-The font could be a little bit bigger. By doing that it could draw attention away from the map, so it's inoffensive
-
-You don't have to include this section but interviewers *love* that you can not only deliver a final product that looks great but also functions efficiently. Did you write something then refactor it later and the result was 5x faster than the original implementation? Did you cache your assets? Things that you write in this section are **GREAT** to bring up in interviews and you can use this section as reference when studying for technical interviews!
+Increasing the font size for the title could help draw more attention to it without detracting from the map. This adjustment is subtle and should be unobtrusive, enhancing the overall presentation without overwhelming the visual elements.
 
 ## Lessons Learned:
 
