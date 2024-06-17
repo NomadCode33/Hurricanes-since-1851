@@ -7,7 +7,7 @@ Write a short sentence or two about this project and what it does. Be sure to in
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript, Framework of choice
+**Tech used:** ArcGIS Pro
 
 Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write *something*. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
 
@@ -23,4 +23,6 @@ No matter what your experience level, being an engineer means continuously learn
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-**Palettable:** https://github.com/alecortega/palettable
+**Miami Sea Level Rise:** https://github.com/T3ch12et/3D-Miami-Beach-Sea-Level-Rise/tree/main <br>
+**Athens Heat Risk Index:** https://github.com/T3ch12et/Athens-Heat-Risk-Index/tree/main <br>
+**Oso Mudslide:** https://github.com/T3ch12et/Oso-Mudslide/tree/main
