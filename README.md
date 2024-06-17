@@ -23,7 +23,9 @@ Increasing the font size for the title could help draw more attention to it with
 
 ## Lessons Learned:
 
-No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those *whoa this is awesome* or *wow I actually did it!* moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
+What I've learned here is the importance of going beyond the basics and experimenting. When creating a map, I considered it from a viewer's perspective. If I had made a basic map of hurricanes with only minor quality-of-life changes, it would have been readable but dull, and the impact of the information would have been lost. Instead of presenting mere data points, I aimed to create a map that vividly depicts roaring hurricanes.
+
+While the basics are crucial, art and presentation significantly enhance how the message is conveyed to viewers. This approach can inspire curiosity about the topic and even motivate action. Small details can make a big difference in effective storytelling through maps. The skills I've learned in basemap and icon construction have taught me to be intentional in my mapmaking, ensuring that every element contributes to a compelling and informative visual narrative.
 
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
