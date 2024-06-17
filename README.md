@@ -1,5 +1,5 @@
-# Hurricanes-since-1851
-Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
+# Hurricanes since 1851
+A detailed map showcasing the projected paths and frequencies of hurricanes worldwide since 1851, providing a comprehensive view of historical and future hurricane patterns.
 
 **Link to project:** http://recruiters-love-seeing-live-demos.com/
 
