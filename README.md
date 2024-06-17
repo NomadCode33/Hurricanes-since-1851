@@ -3,8 +3,7 @@ A detailed map projection showcasing the projected paths and frequencies of hurr
 
 **Link to project:** http://recruiters-love-seeing-live-demos.com/
 
-<img src="./Hurricane_Projection_EmekaEmeche.jpg"/>
-![alt tag](http://placecorgi.com/1200/650)
+<img alt = "Hurricane" img src="./Hurricane_Projection_EmekaEmeche.jpg"/>
 
 ## How It's Made:
 
