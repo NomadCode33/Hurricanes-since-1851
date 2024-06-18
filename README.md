@@ -1,8 +1,6 @@
 # Hurricanes since 1851
 A detailed map projection showcasing the projected paths and frequencies of hurricanes worldwide since 1851, providing a comprehensive view of historical hurricane patterns.
 
-**Link to project:** 
-
 <img alt = "Hurricane" img src="./Hurricane_Projection_EmekaEmeche.jpg"/>
 
 ## How It's Made:
