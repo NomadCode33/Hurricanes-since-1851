@@ -28,15 +28,15 @@ While the basics are crucial, art and presentation significantly enhance how the
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-**Spilhaus Layout:** [Spilhaus Layout Map](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Spilhaus-Layout)
+**Spilhaus Layout:** [Spilhaus Layout Map](https://github.com/NomadCode33/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Spilhaus-Layout)
 
-**ArcGIS Restaurant Project:** [ArcGIS Fast Food Restaurant Map](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ArcGIS-Restaurant-Project)
+**ArcGIS Restaurant Project:** [ArcGIS Fast Food Restaurant Map](https://github.com/NomadCode33/GIS-Data-Science-Portfolio/tree/main/ArcGIS-Restaurant-Project)
 
-**West Seattle Light Rail Survey:** [West Seattle Light Rail Survey](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/Furtado-and-Associates-Projects/West%20Seattle%20Light%20Rail%20Survey)
+**West Seattle Light Rail Survey:** [West Seattle Light Rail Survey](https://github.com/NomadCode33/GIS-Data-Science-Portfolio/tree/main/Furtado-and-Associates-Projects/West%20Seattle%20Light%20Rail%20Survey)
 
 ## Repositories
-**Profile:** https://github.com/T3ch12et
+**Profile:** https://github.com/NomadCode33
 
-**Cartography Repository:** [ESRI MOOC Cartography](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography)
+**Cartography Repository:** [ESRI MOOC Cartography](https://github.com/NomadCode33/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography)
 
-**Main Repository:** https://github.com/T3ch12et/GIS-Data-Science-Portfolio
+**Main Repository:** https://github.com/NomadCode33/GIS-Data-Science-Portfolio
